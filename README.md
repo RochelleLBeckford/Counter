@@ -1,9 +1,15 @@
-# Session Demo
+# Counter
 <!-- can have readme preview open as well to see how it will appear -->
 <!-- - this is a bullet -->
 
-## this is a sub heading
+<!-- ## this is a sub heading -->
+## You need to keep track of how many times the same visitor visits a certain page. To do this, you will first need to write a basic counter. Create two pages, one that will show you how many times someone has visited the other.
 
+-> Create and display a counter on http://your_server/counter
+-> Increment the counter on each visit to http://your_server/
+-> Counter must start at zero -> No errors regardless of which page is visited first
+-> Create a third page that will increment the counter by 2
+-> Create a reset button to set the counter back to zero
 <!-- 
 Test: Show how to add a web browser
 [website](https://www.google.com) -->
