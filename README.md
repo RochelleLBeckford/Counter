@@ -3,18 +3,18 @@
 <!-- - this is a bullet -->
 
 <!-- ## this is a sub heading -->
-## You need to keep track of how many times the same visitor visits a certain page. To do this, you will first need to write a basic counter. Create two pages, one that will show you how many times someone has visited the other.
+### You need to keep track of how many times the same visitor visits a certain page. To do this, you will first need to write a basic counter. Create two pages, one that will show you how many times someone has visited the other.
 
--> Create and display a counter on http://your_server/counter
--> Increment the counter on each visit to http://your_server/
--> Counter must start at zero -> No errors regardless of which page is visited first
--> Create a third page that will increment the counter by 2
--> Create a reset button to set the counter back to zero
+1. Create and display a counter on http://your_server/counter
+2. Increment the counter on each visit to http://your_server/
+3. Counter must start at zero -> No errors regardless of which page is visited first
+4. Create a third page that will increment the counter by 2
+5. Create a reset button to set the counter back to zero
 <!-- 
 Test: Show how to add a web browser
 [website](https://www.google.com) -->
 
-<!-- Checklist -->
+ - Checklist
 - [] update [application.properties](/src/main/resources/application.properties)
 <!-- how to put in code blocks us ```-->
 ```
