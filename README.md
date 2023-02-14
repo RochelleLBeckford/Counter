@@ -65,7 +65,7 @@ spring.mvc.hiddenmethod.filter.enabled=true
 			<version>3.6.0</version>
 		</dependency>
 ```
-Whenver add this to my pom fie it will ask me of i want to update -> always say yes
+H~2~O Whenver add this to my pom fie it will ask me of i want to update -> always say yes
 
 - [] add [index.jsp](src/main/webapp/WEB-INF/index.jsp)
 <!-- 
