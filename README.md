@@ -30,6 +30,7 @@ spring.jpa.hibernate.ddl-auto=update
 spring.mvc.hiddenmethod.filter.enabled=true
 ```
 
+- ### Whenver add this to my pom fie it will ask me of i want to update -> always say yes
 - [] [pom.xml](pom.xml)
 ```
 		<!-- 
@@ -65,7 +66,6 @@ spring.mvc.hiddenmethod.filter.enabled=true
 			<version>3.6.0</version>
 		</dependency>
 ```
-H~2~O Whenver add this to my pom fie it will ask me of i want to update -> always say yes
 
 - [] add [index.jsp](src/main/webapp/WEB-INF/index.jsp)
 <!-- 
